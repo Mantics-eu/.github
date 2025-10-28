@@ -1,53 +1,53 @@
-<!-- Banner (add profile/banner.png in this repo) -->
+## 🧭 **Mantics — Human-Centered Technology**
+
+<!-- Banner -->
+
 <p align="center">
   <img src="./banner.jpeg" alt="Mantics — Human-centered technology for dependable autonomy" width="100%" />
 </p>
 
-<h1 align="center">👋 Mantics</h1>
-<p align="center">
-  We build human-centered technology — with clarity, craftsmanship, and care.
-</p>
+<h1 align="center">MANTICS</h1>
+<p align="center"><strong>Human-centered technology</strong></p>
 
 <p align="center">
   <a href="https://mantics.eu"><img alt="Website" src="https://img.shields.io/badge/Website-mantics.eu-0B1D3A"></a>
-  <a href="https://baticova.com"><img alt="Baticova" src="https://img.shields.io/badge/Project-Baticova-1B3A5B"></a>
-  <a href="https://github.com/orgs/ManticsEU/discussions"><img alt="Discussions" src="https://img.shields.io/badge/Discussions-Join-2B1A4A"></a>
-  <a href="https://github.com/sponsors/mantics"><img alt="Sponsor on GitHub" src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-000"></a>
+  <a href="https://baticova.com"><img alt="Baticova" src="https://img.shields.io/badge/Discover-Baticova-1B3A5B"></a>
+  <a href="https://github.com/ManticsEU"><img alt="GitHub" src="https://img.shields.io/badge/Organization-ManticsEU-000"></a>
 </p>
 
 ---
 
-## What we’re building
+### About Mantics
 
-### 🧠 Baticova — dependable AI autonomy
-**Baticova** turns AI from isolated tools into **digital departments** that can plan, coordinate, and deliver real work — **transparently and under human control**.  
-It’s practical infrastructure for dependable autonomy, shaped by our belief that technology should amplify human collaboration, not replace it.
+**Mantics** builds technology that works *with* people — not around them.
+We design systems that combine clarity, transparency, and dependability to make autonomy truly human-centered.
 
-- **Why it matters:** Today’s AI is powerful but static; it still needs people to manage every step.  
-- **Our approach:** transparency, memory, and governance — the three foundations for trustworthy autonomy.  
-- **Where it runs:** locally on your device or securely in the cloud.
-
-➡️ Learn more: **[baticova.com](https://baticova.com)**
+Our focus is on creating tools that help organizations collaborate better with intelligent systems —
+so people stay in control, and technology becomes a trusted partner.
 
 ---
 
-## How we work
+### Our flagship product
 
-- **Human-centered by design.** Clear UX, calm typography, and thoughtful systems.
-- **Open when it helps.** We share research, tools, and docs as they mature.
-- **Production-minded.** Demos are great — but we ship things you can actually use.
+#### 🧠 **Baticova — dependable AI autonomy**
+
+**Baticova** is our practical infrastructure for dependable AI autonomy.
+It turns isolated AI tools into **digital departments** that can plan, coordinate, and deliver real work —
+under transparent human oversight.
+
+> Check out our new product — **Baticova** — a practical infrastructure for dependable AI autonomy.
+> → [baticova.com](https://baticova.com)
 
 ---
 
-## Get involved
+### How we think
 
-- 💬 **Chat:** Join our GitHub Discussions to share ideas and feedback.
-- 🧪 **Early access:** Watch this org for updates; we’ll open pilots as they’re ready.
-- ❤️ **Support:** Back our work via GitHub Sponsors.
+* **Human at the center.** We build systems that serve human values first.
+* **Transparent by design.** Technology you can understand and trust.
+* **Crafted with care.** From interface to infrastructure — every layer matters.
 
 ---
 
 <p align="center">
-  <sub>Made by <a href="https://mantics.eu/">Mantics</a> · A project by humans who care about how technology works with people.</sub>
+  <sub>Made by <a href="https://mantics.eu/">Mantics</a> — a company dedicated to building technology that works with people, not against them.</sub>
 </p>
-
