@@ -1,6 +1,6 @@
 <!-- Banner (add profile/banner.png in this repo) -->
 <p align="center">
-  <img src="./banner.png" alt="Mantics — Human-centered technology for dependable autonomy" width="100%" />
+  <img src="./banner.jpeg" alt="Mantics — Human-centered technology for dependable autonomy" width="100%" />
 </p>
 
 <h1 align="center">👋 Mantics</h1>
